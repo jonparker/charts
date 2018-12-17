@@ -44,7 +44,7 @@ The following table lists the configurable parameters of the Selenium chart and 
 | --------- | ----------- | ------- |
 | `global.nodeselector` | Node label to be useed globally for scheduling of all images | `nil` |
 | `global.hostAliases` | A list of hostAliases, that contains ip and hostnames, to be used globally | `[]` |
-| `global.affinity` | Deployemnt affinities to be used globally for scheduling of all images | `nil` |
+| `global.affinity` | Deployment affinities to be used globally for scheduling of all images | `nil` |
 | `global.tolerations` | Deployment tolerations to be used globally for scheduling of all images | `nil` |
 | `hub.image` | The selenium hub image | `selenium/hub` |
 | `hub.tag` | The selenium hub image tag | `3.14.0` |
